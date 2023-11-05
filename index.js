@@ -5,7 +5,7 @@ const textMain = document.querySelector('.p-section-main');
 const buttonCreate = document.querySelector('.button-createList');
 const textFooter = document.querySelector('.p-footer');
 const textFooterAnchor = 'DESENVOLVIDO POR <a href="https://www.linkedin.com/in/rom%C3%A1rio-oliveira-b9022a1b7/" target="_blank">R.OlIVEIRA</a>'
-
+//
 portuguese.addEventListener('click', changePortuguese);
 english.addEventListener('click', changeEnglish);
 
