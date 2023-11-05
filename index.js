@@ -9,7 +9,7 @@ const textFooterAnchor = 'DESENVOLVIDO POR <a href="https://www.linkedin.com/in/
 portuguese.addEventListener('click', changePortuguese);
 english.addEventListener('click', changeEnglish);
 
-
+//
 function changePortuguese(){
   textHeader.textContent = "ESCOLHA O IDIOMA";
   buttonCreate.textContent = "CRIAR TAREFA";
